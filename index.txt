@@ -1,9 +1,0 @@
-<html>
-<head>
-</head>
-<body>
-<div align="center">
-<img src="exercise 10.gif" alt="photo" width="500" height="500">
-</div>
-</body>
-</html>
